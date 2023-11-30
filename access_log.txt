@@ -1,0 +1,18 @@
+2023-11-30T05:51:58.634Z [GET] /api/tvs /Listar todos los TV
+2023-11-30T05:52:15.727Z [GET] /api/tvs/id /Listar un TV
+2023-11-30T05:52:40.486Z [POST] /api/tvs /Crear un TV
+2023-11-30T05:53:08.389Z [PUT] /api/tvs/id /Modificar un TV
+2023-11-30T05:53:36.571Z [DELETE] /api/tvs/id /Eliminar un TV
+2023-11-30T05:58:57.424Z [GET] /api/tvs/2 Listar un TV
+2023-11-30T05:59:10.981Z [GET] /api/tvs/6 Listar un TV
+2023-11-30T06:01:25.085Z [POST] /api/tvs /Crear un TV
+2023-11-30T06:02:14.437Z [PUT] /api/tvs/5 Modificar un TV
+2023-11-30T06:02:33.283Z [GET] /api/tvs/2 Listar un TV
+2023-11-30T06:02:36.552Z [GET] /api/tvs/5 Listar un TV
+2023-11-30T06:02:45.422Z [DELETE] /api/tvs/5 Eliminar un TV
+2023-11-30T06:09:55.278Z [POST] /api/tvs /Crear un TV
+2023-11-30T06:13:51.313Z [POST] /api/tvs /Crear un TV
+2023-11-30T06:16:03.556Z [POST] /api/tvs /Crear un TV
+2023-11-30T06:17:11.436Z [DELETE] /api/tvs/5 Eliminar un TV
+2023-11-30T06:17:15.031Z [DELETE] /api/tvs/4 Eliminar un TV
+2023-11-30T06:17:18.111Z [DELETE] /api/tvs/7 Eliminar un TV
